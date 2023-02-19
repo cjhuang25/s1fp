@@ -8,7 +8,7 @@ body{
     margin-left: calc(50vw - 290px);
     margin-top: calc(3h - 10px);
     width: 900px;
-    padding: 0 2em 7em 0;
+    padding: 0 0 7em 0;
     white-space: nowrap;
 }
 
