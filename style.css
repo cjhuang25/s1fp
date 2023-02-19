@@ -9,6 +9,7 @@ body{
     margin-top: calc(3h - 10px);
     width: 900px;
     padding: 0 2em 7em 0;
+    white-space: nowrap;
 }
 
 #wrapleftarrow {
